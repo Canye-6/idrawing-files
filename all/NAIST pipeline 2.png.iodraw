@@ -88,8 +88,11 @@
         <mxCell id="Zv0mDITa1eFhHgEFbIWP-38" value="1.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pooling&lt;/span&gt;&lt;br&gt;&lt;div&gt;2. Fully-connected layer&lt;/div&gt;&lt;div&gt;3. Softmax&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="652" y="369" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ztX1r-v8AdoDpP73gKo-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5ztX1r-v8AdoDpP73gKo-5" value="CNN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ztX1r-v8AdoDpP73gKo-6" value="MLP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="298" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
