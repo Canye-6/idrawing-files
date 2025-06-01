@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Femur Head ROI&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="140" width="90" height="100" as="geometry" />
+          <mxGeometry x="190" y="140" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zv0mDITa1eFhHgEFbIWP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="Zv0mDITa1eFhHgEFbIWP-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zv0mDITa1eFhHgEFbIWP-13" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Postoperative Feature Map&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="397.5" y="180" width="105" height="80" as="geometry" />
+          <mxGeometry x="390" y="180" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zv0mDITa1eFhHgEFbIWP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zv0mDITa1eFhHgEFbIWP-13" target="Zv0mDITa1eFhHgEFbIWP-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
