@@ -16,6 +16,10 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-151" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-151" y="-30" />
+              <mxPoint x="-150" y="-30" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-9" target="Qk3R1lmn8a098pIjZVQ0-15">
@@ -27,8 +31,8 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220.5" y="50" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-18" value="Pre X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-60" width="120" height="40" as="geometry" />
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-18" value="Clinical Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
