@@ -27,8 +27,14 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220.5" y="50" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-18" target="Qk3R1lmn8a098pIjZVQ0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-18" value="Clinical Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="-90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-20" value="Clinical Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="30" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
