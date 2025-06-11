@@ -21,8 +21,8 @@
             <mxPoint x="-151" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-11" value="Segmentation (ROI) + Radiomics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="100" width="200" height="30" as="geometry" />
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-11" value="Radiomic Feature Vector&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="100" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
