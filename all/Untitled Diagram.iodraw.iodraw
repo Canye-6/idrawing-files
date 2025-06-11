@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="-110" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-5" value="Pre X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-211" y="-90" width="120" height="40" as="geometry" />
+          <mxGeometry x="-160" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-9" value="Segmentation (ROI) + Radiomics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-10" width="200" height="30" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-26" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220.5" y="50" width="141" height="60" as="geometry" />
+          <mxGeometry x="-200" y="50" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-27" target="Qk3R1lmn8a098pIjZVQ0-29">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +67,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-36" value="CNN Encode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-10" width="90" height="30" as="geometry" />
+          <mxGeometry x="205" y="-10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-38" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Post Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-38" target="Qk3R1lmn8a098pIjZVQ0-38">
           <mxGeometry relative="1" as="geometry" />
