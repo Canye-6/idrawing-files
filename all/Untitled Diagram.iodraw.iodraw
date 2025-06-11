@@ -54,6 +54,9 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-27" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Clinical Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-31" y="50" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-29" target="Qk3R1lmn8a098pIjZVQ0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-29" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Personalized Bone Quality Vector&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-200" y="170" width="310" height="40" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-53" value="Concat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="268" width="60" height="30" as="geometry" />
+          <mxGeometry x="9" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
