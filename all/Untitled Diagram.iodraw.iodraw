@@ -42,6 +42,12 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-24" value="Clinical Feature Vector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="50" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-26" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220.5" y="50" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-27" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210.5" y="60" width="141" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
