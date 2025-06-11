@@ -33,19 +33,14 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-18" value="Clinical Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-21" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-22" target="Qk3R1lmn8a098pIjZVQ0-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="39" y="40" />
-              <mxPoint x="40" y="40" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-22" target="Qk3R1lmn8a098pIjZVQ0-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-22" value="MLP Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-11" y="-10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-24" value="Clinical Feature Vector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="50" width="140" height="30" as="geometry" />
+          <mxGeometry x="-20" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-26" target="Qk3R1lmn8a098pIjZVQ0-29">
           <mxGeometry relative="1" as="geometry" />
