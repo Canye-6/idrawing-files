@@ -8,7 +8,7 @@
           <mxGeometry x="390" y="-110" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-5" value="Preoperative X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="-90" width="120" height="40" as="geometry" />
+          <mxGeometry x="-211" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-9">
           <mxGeometry relative="1" as="geometry">
@@ -25,9 +25,6 @@
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="100" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-16" value="[Preoperative X-ray]             [Clinical Data]           [Postoperative X-ray]&#xa;         │                             │                            │&#xa;         ▼                             ▼                            ▼&#xa; Segmentation + Radiomics         MLP Encoder                   CNN Encoder&#xa;         │                             │                            │&#xa;         ▼                             ▼                            ▼&#xa;Radiomic Feature Vector     Clinical Feature Vector     Postoperative Feature Vector&#xa;         │                             │                            │&#xa;         └────────────┬───────────────┘                            │&#xa;                      ▼                                            │&#xa;      Personalized Bone Quality Vector                             │&#xa;                      │                                            │&#xa;                      └────────────────────┬──────────────────────┘&#xa;                                           ▼&#xa;                               Feature Concatenation&#xa;                                           │&#xa;                                           ▼&#xa;                                     Prediction MLP&#xa;                                           │&#xa;                                           ▼&#xa;                    Predicted Probability of 90-Day Revision" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="490" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
