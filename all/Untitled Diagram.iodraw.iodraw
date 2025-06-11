@@ -60,7 +60,7 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-32" value="Concat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-35" value="Clinical Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-35" value="Post X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
