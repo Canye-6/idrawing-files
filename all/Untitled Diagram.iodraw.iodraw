@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="-110" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-5" value="Pre X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-90" width="120" height="40" as="geometry" />
+          <mxGeometry x="-211" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-9" value="Segmentation (ROI) + Radiomics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-10" width="200" height="30" as="geometry" />
