@@ -10,11 +10,6 @@
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-5" value="Pre X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-211" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qk3R1lmn8a098pIjZVQ0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qk3R1lmn8a098pIjZVQ0-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-150" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-9" value="Segmentation (ROI) + Radiomics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-10" width="200" height="30" as="geometry" />
         </mxCell>
@@ -31,6 +26,9 @@
         </mxCell>
         <mxCell id="Qk3R1lmn8a098pIjZVQ0-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Radiomic Feature Vector&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220.5" y="50" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qk3R1lmn8a098pIjZVQ0-18" value="Pre X-ray" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-60" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
